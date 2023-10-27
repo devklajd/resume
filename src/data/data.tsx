@@ -69,11 +69,11 @@ export type SectionId = (typeof SectionId)[keyof typeof SectionId];
  */
 export const heroData: Hero = {
   imageSrc: heroImage,
-  name: `I'm Tim Baker.`,
+  name: `I'm Klajdi Belishaku.`,
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm a Victoria based <strong className="text-stone-100">Full Stack Software Engineer</strong>, currently working
+        I'm an Albania based <strong className="text-stone-100">Full Stack Software Engineer</strong>, currently working
         at <strong className="text-stone-100">Instant Domains</strong> helping build a modern, mobile-first, domain
         registrar and site builder.
       </p>
@@ -104,16 +104,14 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
   profileImageSrc: profilepic,
-  description: `Use this bio section as your way of describing yourself and saying what you do, what technologies you like
-  to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing
-  in.`,
+  description: `ooooooooooooooooooooooooooooooooooooooooo MMIIIIIIIMMMMROOOOMAAAAAA CAAAA BOOOOT SIIIIII KALUUTTTTT????`,
   aboutItems: [
-    {label: 'Location', text: 'Victoria, BC', Icon: MapIcon},
-    {label: 'Age', text: '29', Icon: CalendarIcon},
-    {label: 'Nationality', text: 'Canadian / Irish', Icon: FlagIcon},
-    {label: 'Interests', text: 'Motorcycles, Muay Thai, Banjos', Icon: SparklesIcon},
-    {label: 'Study', text: 'University of Victoria', Icon: AcademicCapIcon},
-    {label: 'Employment', text: 'Instant Domains, inc.', Icon: BuildingOffice2Icon},
+    {label: 'Location', text: 'Tirana, AL', Icon: MapIcon},
+    {label: 'Age', text: '24', Icon: CalendarIcon},
+    {label: 'Nationality', text: 'Albanian', Icon: FlagIcon},
+    {label: 'Interests', text: 'Coding,Cars,Entrepreneurship', Icon: SparklesIcon},
+    {label: 'Study', text: 'University of Barleti', Icon: AcademicCapIcon},
+    {label: 'Employment', text: 'Software Engineer', Icon: BuildingOffice2Icon},
   ],
 };
 
@@ -129,24 +127,21 @@ export const skills: SkillGroup[] = [
         level: 10,
       },
       {
-        name: 'French',
+        name: 'Italian',
         level: 4,
       },
-      {
-        name: 'Spanish',
-        level: 3,
-      },
+
     ],
   },
   {
     name: 'Frontend development',
     skills: [
       {
-        name: 'React',
-        level: 9,
+        name: 'HTML,CSS,JS',
+        level: 10,
       },
       {
-        name: 'Typescript',
+        name: 'ReactJs',
         level: 7,
       },
       {
@@ -163,32 +158,28 @@ export const skills: SkillGroup[] = [
         level: 8,
       },
       {
-        name: 'Rust',
-        level: 5,
+        name: 'Laravel',
+        level: 8,
       },
       {
-        name: 'Golang',
-        level: 4,
+        name: 'Laravel Nova',
+        level: 8,
       },
     ],
   },
   {
-    name: 'Mobile development',
+    name: 'CMS Development',
     skills: [
       {
-        name: 'React Native',
-        level: 9,
+        name: 'Wordpress',
+        level: 10,
       },
       {
-        name: 'Flutter',
-        level: 4,
-      },
-      {
-        name: 'Swift',
-        level: 3,
-      },
-    ],
-  },
+        name: 'Shopify',
+        level: 10,
+      }
+    ]
+  }
 ];
 
 /**
