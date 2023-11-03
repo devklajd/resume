@@ -74,7 +74,7 @@ export const heroData: Hero = {
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         I'm an Albania based <strong className="text-stone-100">Full Stack Software Engineer</strong>, currently working
-        as a <strong className="text-stone-100">FreeLancer</strong> where I have worked related to different projects from simples ones to the most complex ones.
+        as a <strong className="text-stone-100">FreeLancer</strong> within React / Laravel frameworks and WordPress & Shopify CMS. Everything under project needs!
         With 5 years of experience on front-end and back-end I am able to bring the best quality of coding and management of tasks and projects.
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
@@ -194,15 +194,15 @@ export const skills: SkillGroup[] = [
  */
 export const portfolioItems: PortfolioItem[] = [
   {
-    title: 'Project title 1',
-    description: 'Give a short description of your project here.',
-    url: 'https://reactresume.com',
+    title: 'SELECTOURS',
+    description: 'Travel Agency in Albania - Laravel',
+    url: 'https://selectours.al',
     image: porfolioImage1,
   },
   {
-    title: 'Project title 2',
-    description: 'Give a short description of your project here.',
-    url: 'https://reactresume.com',
+    title: 'Design & Build London',
+    description: 'Architecture and Construction Company in London',
+    url: 'https://designandbuildlondon.com',
     image: porfolioImage2,
   },
   {
