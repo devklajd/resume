@@ -44,8 +44,8 @@ import {
  * Page meta data
  */
 export const homePageMeta: HomepageMeta = {
-  title: 'React Resume Template',
-  description: "Example site built with Tim Baker's react resume template",
+  title: 'Klajdi Belishaku Resume',
+  description: "Klajdi Belishaku Resume built with react ",
 };
 
 /**
@@ -74,13 +74,13 @@ export const heroData: Hero = {
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         I'm an Albania based <strong className="text-stone-100">Full Stack Software Engineer</strong>, currently working
-        at <strong className="text-stone-100">Instant Domains</strong> helping build a modern, mobile-first, domain
-        registrar and site builder.
+        as a <strong className="text-stone-100">FreeLancer</strong> where I have worked related to different projects from simples ones to the most complex ones.
+        With 5 years of experience on front-end and back-end I am able to bring the best quality of coding and management of tasks and projects.
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        In my free time time, you can catch me training in <strong className="text-stone-100">Muay Thai</strong>,
-        plucking my <strong className="text-stone-100">banjo</strong>, or exploring beautiful{' '}
-        <strong className="text-stone-100">Vancouver Island</strong>.
+        In my free time time, you can catch me training at the <strong className="text-stone-100">GYM</strong>,
+        working on myself, <strong className="text-stone-100">reading about new technologies</strong>, or exploring beautiful{' '}
+        <strong className="text-stone-100">Albania</strong>.
       </p>
     </>
   ),
@@ -104,7 +104,14 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
   profileImageSrc: profilepic,
-  description: `ooooooooooooooooooooooooooooooooooooooooo MMIIIIIIIMMMMROOOOMAAAAAA CAAAA BOOOOT SIIIIII KALUUTTTTT????`,
+  description: `
+  As a Software Engineer, I am the architect weaving intricate codes on platforms like Laravel, WordPress, and React. Yet, my passions extend far beyond the digital realm. I'm just as enthusiastic about cars as I am about crafting elegant algorithms. With a fervor for the open road and the rush of automotive innovation, my love for engines parallels my zeal for coding.
+  
+  Nature, an endless reservoir of inspiration, holds a special place in my heart. From the calming whispers of towering forests to the vast expanses of serene landscapes, the beauty of the natural world fuels my creativity.
+  
+  My journey into the labyrinth of technology began in my formative years. Fueled by an insatiable curiosity for computers and the mysterious language of coding, I embarked on a quest that started in childhood. This innate drive has been the guiding force behind my unwavering dedication to my craft.
+  
+  Whether amidst the complexities of software or navigating the winding roads, I persist with the same vigor and commitment. Embracing the harmony between technology and nature, I am a Software Engineer, steering through lines of code with the same thrill as the open highway—a fusion of passion for technology and an unyielding love for the natural world.`,
   aboutItems: [
     {label: 'Location', text: 'Tirana, AL', Icon: MapIcon},
     {label: 'Age', text: '24', Icon: CalendarIcon},
@@ -259,15 +266,17 @@ export const portfolioItems: PortfolioItem[] = [
  */
 export const education: TimelineItem[] = [
   {
-    date: 'April 2007',
-    location: 'Clown college',
-    title: 'Masters in Beer tasting',
-    content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
+    date: 'October 2018 - July 2021',
+    location: 'Tirana, Albania',
+    title: 'Computer Science,Applied Informatics - University Barleti',
+    content: <p>Starting computer science at "University Barlety" , I improved my front end skills and backend too.I have been able to
+    develop a website with Technologies of WordPress/Laravel, building different ecommerce stores and listing websites
+    from scratch.At the same time I was going to school I worked after it on a few companies</p>,
   },
   {
-    date: 'March 2003',
-    location: 'School of Business',
-    title: 'What did you study 101',
+    date: 'March 2021',
+    location: 'Tirana, Albania',
+    title: 'MARKETING SPECIALIST - Albanian Marketing Academy',
     content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
   },
 ];
