@@ -19,14 +19,14 @@ const Footer: FC = memo(() => (
       </div>
       <a
         className="-m-2 flex items-center gap-x-1 rounded-md p-2 ring-yellow focus:outline-none focus:ring-2"
-        href="https://reactresume.com">
+        href="https://github.com/devklajd" target="_blank">
         <BoltIcon className="h-5 w-5 text-yellow" />
         <span>
-          Provided by <span className="text-white">React</span>
-          <span className="italic text-yellow">Resume</span>
+          Provided by <span className="text-white"></span>
+          <span className="italic text-yellow">Klajdi Belishaku</span>
         </span>
       </a>
-      <span className="text-sm text-neutral-700">© Copyright 2022 Tim Baker</span>
+      <span className="text-sm text-neutral-700">© Copyright 2023 Klajdi Belishaku</span>
     </div>
   </div>
 ));
