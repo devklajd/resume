@@ -267,27 +267,122 @@ export const education: TimelineItem[] = [
 
 export const experience: TimelineItem[] = [
   {
-    date: 'March 2010 - Present',
-    location: 'Awesome Development Company',
-    title: 'Senior UX Engineer',
+    date: '02/2019 - 02/2020',
+    location: 'Tirana, Albania',
+    title: 'Web Developer/Designer - TIRANA SQUARE CENTER ',
     content: (
       <p>
-        Describe work, special projects, notable achievements, what technologies you have been working with, and
-        anything else that would be useful for an employer to know.
+        At Tirana Square Center I used to build websites mostly on Wordpress, depending on
+what the client was asking for, I used to work in a team of 4 other developers and
+designers. We used to design specific icons with Illustrator and upload them as SVG
+(keeping the highest quality possible) and implement each icon where it was needed.I
+used to get different types of plugins and edit each plugin on what would be the best for
+our project's needs.
+From customizing templates up to making custom plugins.
+-My main skills were : WordPress (ELEMENTOR , WP Bakery),
+PHP 8, HTML Structure, CSS, MYSQL DB
       </p>
     ),
   },
   {
-    date: 'March 2007 - February 2010',
-    location: 'Garage Startup Studio',
-    title: 'Junior bug fixer',
+    date: '03/2020 - 04/2021',
+    location: 'Tirana, Albania',
+    title: 'Web/App Developer/Designer - ELECTRAL SHPK',
     content: (
       <p>
-        Describe work, special projects, notable achievements, what technologies you have been working with, and
-        anything else that would be useful for an employer to know.
+        At Electral I had to build and maintain different websites from WordPress to other
+frameworks such as Laravel. Working alone with no one else was a huge challenge and I
+was able to test myself on how much pressure I could handle. Mostly at the time, I was
+able to build complex websites in Wordpress very easily and the delivery time of
+Wordpress Websites was much faster than Laravel. Working at Electral made Me realize
+how much work I could handle alone and being able to work on 2-3 projects at the same
+time. Besides working on templates and making the needed changes, I was able to
+integrate different API-s on Laravel Projects such as:
+• Facebook Pixel (Marketing Tool)
+• Laravel Routes
+• Laravel Controllers
+• NodeJS
+• ExpressJS
+• Laravel payment getaways with PayPal/Bank Payment Gateways 
+• Front-End on REACT 
+• Stripe API 
+• 2Checkout 
+Developed good knowledge and skills when I was introduced to Laravel framework which
+I understood how web-apps work.
+Continuing at Electral, I expanded my skills from WordPress to Laravel, mastering the
+intricacies of web applications. In Laravel, I specialized in full-stack development,
+optimizing payment gateways for secure transactions. Simultaneously, I excelled in
+ReactJS, crafting dynamic user interfaces. Collaborating with APIs like Stripe and
+2Checkout, I ensured end-to-end solutions, showcasing versatility as a developer. My
+journey signifies a seamless transition from WordPress to becoming a proficient full-stack
+developer in Laravel, ReactJS, NextJS.
       </p>
     ),
   },
+  {
+    date: '04/2021 - 01/2022',
+    location: 'Tirana, Albania',
+    title: ' Web Developer/Designer | Marketing Specialist - IMPACT SHPK',
+    content:
+    <p>Worked on different fields of IT at IMPACT SHPK.Besides working with Website
+    Development, I managed social media of the company aswell
+    on:Instagram,Facebook,Linkedin & YouTube.Each post of the company and each video
+    was spcifically designed on Adobe Photoshop/Illustrator and for the videos there was
+    used Sony Vegas Video Editor.I also managed company Facebook ADS campaigns aswell
+    until the team got bigger so I became the head of Marketing & Web Development
+    Department at IMPACT.
+    • Meta ADS
+    • Google ADS
+    • Social Media Management
+    • Laravel - Full Stack
+    • WordPress
+    • Adobe Illustrator
+    • Adobe Photoshop
+    </p>
+  },
+  {
+      date: '04/2021 - 01/2022',
+      location: 'Las - Vegas, Nevada | Los Angeles, California',
+      title: 'Web Developer/Designer | Project Manager & Client Relations - 4-Ducks Corporation (Remote)',
+      content:
+      <p>
+        Web Developer/Designer | Project Manager & Client Relations Since 4-Ducks Corporation
+was located in Las Vegas USA, I had to work remotely from my home. Knowing that
+Albanian time is ahead of the USA, my first "task" as I put myself into was to stay awake
+all night and get to know project information and talk directly with the client on Zoom
+Calls. Each project was different from the other ones. Some of them needed to be worked
+on WordPress, other ones on fully custom code on Laravel & other ones on Shopify. I
+didn't work on all projects myself but I had the responsibility of them all. Each project had
+3-4 other developers and I had to give them each project information and each task to
+each one of them. I was responsible for the project deadline and I had to run tests, check
+for errors, and the quality of the site before it got delivered on the final process right
+before we had to present it to our clients.
+Skills used and developed from 4-Ducks Corporation :
+• WordPress (Theme customization,Plugin Customization, ELEMENTOR, WP Bakery,SEO)
+• Shopify (Custom Store Development, Design, Different Payment Gateways)
+• FIGMA
+• Illustrator
+• Full Stack Development
+• Laravel / Laravel Nova
+• ReactJS
+• NodeJS
+• ExpressJS
+• NextJS
+• Azure
+• AWS
+• RESTful API Development
+• Database Design and Management (MySQL, MongoDB, PostgreSQL)
+• Error Handling and Debugging
+• ORM (Object-Relational Mapping)
+• Authentication and Authorization
+• ReactJS
+• State Management
+• Component-Based Architecture
+• Deployment
+• Communication
+• Project Management
+      </p>
+  }
 ];
 
 /**
