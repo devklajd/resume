@@ -347,7 +347,7 @@ developer in Laravel, ReactJS, NextJS.
     </p>
   },
   {
-      date: '04/2021 - 05/2023',
+      date: '09/2021 - 05/2023',
       location: 'Las - Vegas, Nevada | Los Angeles, California',
       title: 'Web Developer/Designer | Project Manager & Client Relations - 4-Ducks Corporation (Remote)',
       content:
