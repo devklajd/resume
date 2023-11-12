@@ -157,7 +157,7 @@ export const skills: SkillGroup[] = [
     name: 'Backend development',
     skills: [
       {
-        name: 'Node.js',
+        name: 'Node.js, MySQL, MongoDB,NextJS',
         level: 8,
       },
       {
@@ -261,7 +261,13 @@ export const education: TimelineItem[] = [
     date: 'March 2021',
     location: 'Tirana, Albania',
     title: 'MARKETING SPECIALIST - Albanian Marketing Academy',
-    content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
+    content: <p>Albanian Marketing Academy Being able to build a website and publish it online it is not
+    enough.Depending on what the website is about , another important skill what a
+    developer needs is aswell to know marketing strategies in order to know how to bring
+    customers,viewers back to the website.At "Albanian Marketing Academy" besides social
+    media marketing, I developed my skills on GOOGLE ADS,SEO in order to make an
+    particular website better on SEO Ranking and aswell to manage each AD no matter what
+    platform we are using!</p>,
   },
 ];
 
