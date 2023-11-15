@@ -398,8 +398,8 @@ export const testimonial: TestimonialSection = {
   imageSrc: testimonialImage,
   testimonials: [
     {
-      name: 'John Doe',
-      text: 'Use this as an opportunity to promote what it is like to work with you. High value testimonials include ones from current or past co-workers, managers, or from happy clients.',
+      name: 'Emilio N.Francisco',
+      text: 'Working with Klajd was a game-changer for our business. Their team not only designed a visually stunning website but also integrated a custom CRM system that streamlined our client management process. The attention to detail and commitment to understanding our unique needs truly set them apart.',
       image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/169.jpg',
     },
     {
