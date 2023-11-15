@@ -399,18 +399,18 @@ export const testimonial: TestimonialSection = {
   testimonials: [
     {
       name: 'Emilio N.Francisco',
-      text: 'Working with Klajd was a game-changer for our business. Their team not only designed a visually stunning website but also integrated a custom CRM system that streamlined our client management process. The attention to detail and commitment to understanding our unique needs truly set them apart.',
-      image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/169.jpg',
+      text: 'Working with Klajd was a game-changer for our business. Klajd not only designed a visually stunning website but also integrated a custom CRM system that streamlined our client management process. The attention to detail and commitment to understanding our unique needs truly set them apart.',
+      image: 'https://media.licdn.com/dms/image/C5603AQHRSBtV4QMXHw/profile-displayphoto-shrink_400_400/0/1517574638622?e=1705536000&v=beta&t=mmZ4fUMNN_BGFKTxeliBjLWi7V41fAa6AQlMLU5VjEE',
     },
     {
-      name: 'Jane Doe',
-      text: 'Here you should write some nice things that someone has said about you. Encourage them to be specific and include important details (notes about a project you were on together, impressive quality produced, etc).',
-      image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/14.jpg',
+      name: 'Derek J.Slattery',
+      text: ' Klajd demonstrated not only technical expertise but also a deep understanding of our industry, ensuring that the ERP solution addressed our specific challenges. Thanks to their work, we now have a scalable, efficient, and future-ready system that is driving our business forward.',
+      image: 'https://pbs.twimg.com/profile_images/1112396714344800256/DBSFv7Qp_400x400.jpg',
     },
     {
-      name: 'Someone else',
-      text: 'Add several of these, and keep them as fresh as possible, but be sure to focus on quality testimonials with strong highlights of your skills/work ethic.',
-      image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/69.jpg',
+      name: 'Yorick Naeff',
+      text: 'The seamless integration of these technologies has made our processes more efficient, allowing us to focus on what matters most—serving our clients. Klajd doesnt just build websites, he creates digital ecosystems that empower businesses. We are grateful for his expertise and commitment to our success.',
+      image: 'https://media.licdn.com/dms/image/C4D03AQEy5uckmtpOxQ/profile-displayphoto-shrink_400_400/0/1633699985218?e=1705536000&v=beta&t=Q1ThqBRJuQIwVtiRb7EppI0AvMY3FKDoqD0abAcbUlE',
     },
   ],
 };
